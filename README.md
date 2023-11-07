@@ -1,6 +1,9 @@
 # 대학교 축제때 사용할 술배달
 
 술팖
+
+https://givemesoju-d9d80.firebaseapp.com/?_gl=1*1bbrla5*_ga*NDI0ODI4MTY1LjE2OTgxNjYxMTE.*_ga_CW55HF8NVT*MTY5OTM2NDI5My4zNy4xLjE2OTkzNjQ0MjMuNDAuMC4w  
+
 ![qrcode_81533256_e0b5b00b850539bf61712aaab3d3a964](https://github.com/jkworldchampion/Delivery_drunk/assets/83493949/48113a3d-2136-4701-b024-7d7c758f7543)
 
 1. 문제 인식 -> 학교 축제 시 술을 먹기가 힘들다.  
